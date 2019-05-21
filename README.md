@@ -1,0 +1,2 @@
+# Mini_Course_Project_Work_Introduction_to_Applied_Econometrics_and_Business_Analysis
+Mini Project. Course "Applied Econometrics and Business Analysis".
